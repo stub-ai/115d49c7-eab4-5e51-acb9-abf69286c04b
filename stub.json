@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Zbuduj w języku Python symulator, który dotyczy życia codziennego i wykorzystuje regulator PI/PD/PID etc. Podaj/wyszukaj równania matematyczne i fizyczne potrzebne do implementacji projektu.","md5":"292f356426e5920bd6c398cbe334a150"}]}
